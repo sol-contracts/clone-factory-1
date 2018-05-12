@@ -1,4 +1,10 @@
 # clone-factory
+HEAD
+
+
+Testing gas efficiency of cloned contracts
+
+
 Simple clone contract factory [![Build Status](https://travis-ci.org/yarrumretep/clone-factory.svg?branch=master)](https://travis-ci.org/yarrumretep/clone-factory)
 
 
